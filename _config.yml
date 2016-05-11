@@ -1,0 +1,28 @@
+name: wayward driving in america
+favicon: null
+layout_spectrum: 0.206445234362036
+typography_spectrum: 0.10202811053022742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.48215800477191806
+  lightness: 0.14238586672581732
+  saturation: 0.23974576266482472
+  rhythmicContrast: 0.3861247624736279
+purpose: []
